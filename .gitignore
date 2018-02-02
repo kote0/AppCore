@@ -1,0 +1,7 @@
+
+*.suo
+/.vs
+AppCore/*.user
+AppCore/bin/
+AppCore/obj/
+AppCore/wwwroot/lib/
